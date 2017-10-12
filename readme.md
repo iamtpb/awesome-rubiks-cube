@@ -33,6 +33,7 @@ Looking for contributors. Submit a pull request if you have something to add :)
 ### Advanced
 
 * [Badmephisto](http://badmephisto.com/) - Text as well as video tutorials with extensive explanation and tips.
+* [Algorithm Sets](http://algdb.net/) - Extensive sets of Algoithms.
 
 ## Cubes
 
@@ -47,7 +48,17 @@ Work in progress
 
 * [Layer by Layer Method](https://ruwix.com/the-rubiks-cube/how-to-solve-the-rubiks-cube-beginners-method/) - Beginners method to solve the rubik's cube.
 * [Friedrich Method(F2L or CFOP)](https://ruwix.com/the-rubiks-cube/advanced-cfop-fridrich/) - Advanced method which is famous and widely used.
+	* Intermediate
+		* [2 look OLL](http://www.cubewhiz.com/2lookoll.php) - Two algorithms to orient the last layer
+		* [2 look PLL](http://www.cubewhiz.com/2lookpll.php) - Two algorithms to permute the last layer
+	* Advanced
+		* [OLL](http://www.cubewhiz.com/oll.php) - One algorithm to orient the last layer
+		* [PLL](http://www.cubewhiz.com/pll.php) - One algorithm to permute the last layer
 * [Roux Method](https://www.speedsolving.com/wiki/index.php/Roux_Method)
+	* Intermediate
+		* [2-look CMLL](https://www.youtube.com/watch?v=uXkxzDekZJo)
+	* Advanced
+		* [CMLL](http://lubixcube.com/CMLL.html) - Around 41 Algorithms for 1 look CMLL
 * [ZZ](https://www.speedsolving.com/wiki/index.php/ZZ_Method)
 
 ## Online Timers
@@ -73,7 +84,7 @@ Work in progress
 * [Cubelelo](http://www.cubelelo.com/) - Fast delivery with satisfactory shipments.
 
 ## Miscellaneous
-
+* [Roux CMLL Trainer](http://alejos.org/cmll-trainer.php) - Online Trainer for Roux CMLL Algorithms
 * [Road to Sub-10](https://www.speedsolving.com/forum/threads/how-to-get-faster-using-the-fridrich-cfop-method.6085/) - Steps to guide you from 1:30+ to sub-10 second solve.
 
 ## Licence
